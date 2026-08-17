@@ -83,3 +83,6 @@ Platforms/HoloLens/Config/HoloLensEngine.ini
 
 # Raw Assets
 RawAssets/
+
+# Other
+Tools/
